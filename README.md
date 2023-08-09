@@ -5,6 +5,7 @@
 ## About me
 
 - 🌱 I’m currently learning React.ts
+- 🔭 I’m currently looking for an internship...
 
 ## Skills
 OS:
