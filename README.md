@@ -39,8 +39,7 @@ Tools:
 ## How to contact me ?
 with:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonny-fourmont/)
 or at:
 
 sonny.fourmont@epitech.eu
