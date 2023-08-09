@@ -22,6 +22,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 <!--
 **Sonny-Fourmont/Sonny-Fourmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
