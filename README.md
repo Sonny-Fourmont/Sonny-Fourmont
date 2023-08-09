@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning React.ts
 
 ## Skills
 ![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=white)
