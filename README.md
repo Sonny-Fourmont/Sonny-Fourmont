@@ -2,7 +2,7 @@
 <h2 align="center">I'm a second years Epitech student passionate about cybersecurity <br />
   and system programming !</h2>
 
-- 🌱 I’m currently learning Reactand TypeScript
+- 🌱 I’m currently learning React and TypeScript
 <!--
 **Sonny-Fourmont/Sonny-Fourmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
