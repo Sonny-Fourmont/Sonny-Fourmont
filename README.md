@@ -4,6 +4,7 @@
 
 ## About me
 
+- ⚡ In perpetual learning of CyberSecurity and system...
 - 🌱 I’m currently learning React.ts
 - 🔭 I’m currently looking for an internship...
 
