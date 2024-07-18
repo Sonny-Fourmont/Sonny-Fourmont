@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Sonny Fourmont ! 👋</h1>
-<h2 align="center">I'm a second years Epitech student passionate about cybersecurity <br />
+<h2 align="center">I'm a third years Epitech student passionate about cybersecurity <br />
   and system programming !</h2>
 
 ## About me
